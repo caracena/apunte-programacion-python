@@ -12,8 +12,19 @@ project:
     - name: Claudio Aracena
   toc:
     - file: intro.md
+    - title: Unidad 1 — Introducción a la Resolución de Problemas
+      file: unidad1_resolucion_problemas.ipynb
+    - title: Unidad 2 — Introducción al Lenguaje de Programación Python
+      file: unidad2_introduccion_python.ipynb
+    - title: Unidad 3 — Control de Flujo
+      file: unidad3_control_flujo.ipynb
+    - title: Unidad 4 — Funciones y Modularidad
+      file: unidad4_funciones_modularidad.ipynb
+    - title: Unidad 5 — Estructuras de Datos Avanzadas y Módulos
+      file: unidad5_estructuras_datos.ipynb
+    - title: Unidad 6 — Integración y Casos Prácticos
+      file: unidad6_integracion.ipynb
   github: caracena/apunte-programacion-python
-  # To autogenerate a table of contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
   # options:
