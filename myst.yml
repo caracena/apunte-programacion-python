@@ -27,6 +27,6 @@ project:
   github: caracena/apunte-programacion-python
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: site_logo.png
