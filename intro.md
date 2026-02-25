@@ -43,12 +43,6 @@ Lenguaje de programación principal del curso. Gratuito y disponible en [python.
 :::{card} 📓 Jupyter Notebook
 Entorno interactivo que combina código, texto y visualizaciones en un mismo documento.
 :::
-:::{card} 💻 VS Code
-Editor de código profesional con soporte para Python y extensiones útiles.
-:::
-:::{card} 📦 Anaconda
-Distribución que incluye Python, Jupyter y cientos de bibliotecas científicas preinstaladas.
-:::
 ::::
 
 ## ¿Por qué Python?
